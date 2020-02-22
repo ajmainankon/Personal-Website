@@ -1,0 +1,98 @@
+body{
+    font-family: 'Roboto Mono';
+    margin: 0px;
+}
+.FirstLine{
+    width: 40%;
+    margin: 90px 0px 30px 50px;
+    padding-left: 50px;
+}
+
+.FirstLine2{
+    height: 10%;
+    width: 40%;
+    margin: 90px 0px 30px 50px;
+    padding-left: 50px;
+}
+
+.WidthAdjust{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+    align-items: center;
+    text-align: justify;
+}
+
+
+.WidthAdjust img{
+    width: 53%;
+    padding-left: 33%;
+    padding-bottom: 10%;
+    margin-top: 5% ;
+    padding-top: 2%;
+    align-items: center;
+}
+
+
+
+#TopHeaderName{
+    color: rgb(219, 72, 190);
+    width: 40%;
+    margin: 10px 0px 30px 50px;
+    padding-left: 50px;
+    font-size: 200%;
+}
+
+.RedirectButton{
+    color: white;
+    width: 40%;
+    margin: 150px 0px 30px 100px;
+    background-color: rgb(219, 72, 190);
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 25px;
+}
+
+.ParagaphModification{
+    width: 40%;
+    margin: 150px 0px 30px 50px;
+    padding-left: 50px;
+    text-align: justify;
+}
+
+
+.KeepingItCenter{
+    text-align: center;
+}
+.LatestWork{
+    text-align: center;
+    margin: 80px 0px 80px 0px
+}
+
+.ClientSaySection{
+    text-align: center;
+    text-align: justify;
+}
+
+#BelowBox{
+   
+    width: 550px;
+    height: 30%;
+    background-color: rgb(219, 72, 190);
+    border:   solid rgb(219, 72, 190);
+    padding: 40px;
+    margin: 0px 0px 40px 31%;
+    border-radius: 25px;
+    text-align: center;
+    
+    
+}
+
+.BruceClass{
+    margin: 20px 0px 20px 0px
+}
+.BruceClass2{
+    margin: 30px 0px 50px 0px
+}
+
