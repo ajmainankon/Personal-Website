@@ -1,0 +1,159 @@
+.red {
+    border: 2px solid red;
+}
+
+body{
+    font-family: 'Roboto Mono';
+    margin: auto;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+}
+
+.sub1{
+    width: 60%;
+    text-align: justify;
+    padding: 80px;
+    
+}
+.sub2{
+    width: 40%;
+    text-align: center;
+    padding: 80px;
+
+}
+
+
+.sub3{
+    width: 40%;
+    text-align: left;
+    padding: 80px;
+}
+.sub4{
+    width: 60%;
+    text-align: justify;
+    padding: 60px;
+}
+
+.img-size{
+    
+    width: 500px;
+}
+
+.sub5{
+    width:100%;
+    text-align: center;
+}
+
+.sub6{
+    width:100%;
+    text-align: center;
+    padding: 50px;
+   
+}
+
+.sub7{
+    margin: auto;
+    padding: 20px 80px;
+    width: fit-content;
+    background-color: rgb(219, 72, 190);
+    border:   solid rgb(219, 72, 190);
+    border-radius: 25px 30px;
+}
+
+.LatestWork{
+    text-align: center;
+    margin: 80px 0px 80px 0px;
+}
+.FirstLine{
+    width: 40%;
+    padding-left: 150px;
+}
+
+.FirstLine2{
+    width: 40%;
+    padding-left: 150px;
+    text-align: justify;
+    margin-left: 130px;
+}
+
+.FirstLine22{
+    width: 40%;
+    padding-left: 150px;
+    text-align: justify;
+    margin-left: 130px;
+    font-size: 200%;
+}
+.button{
+    color: white;
+    width: 40%;
+    text-align: center;
+    margin: 30px 20px 20px 80px;
+    border-radius: 25px;
+}
+.RedirectButton{
+    color: white;
+    width: 30%;
+    background-color: rgb(219, 72, 190);
+    border-radius: 25px;
+    padding: 10px 15px;
+    margin-top: 30px;
+    text-decoration: none   ;
+    font-family: 'Roboto Mono';
+}
+
+.RedirectButton > a{
+    color: white;
+    text-decoration: None;
+}
+.RedirectButton2{
+    color: white;
+    width: 30%;
+    background-color: rgb(219, 72, 190);
+    border-radius: 25px;
+    padding: 10px 15px;
+    margin-top: 30px;
+    margin-left: 200px;
+    text-decoration: none;
+
+}
+
+.RedirectButton2 > a{
+    color: white;
+    text-decoration: None;
+    
+}
+
+.HeaderResize{
+    font-size: 200%;
+    color: rgb(219, 72, 190);
+}
+.flex-container {
+    display: flex;
+    justify-content: center;
+  }
+.flex-container img{
+    width: 400px;
+}
+.TopBanner{
+    background-image: url("2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.TopBanner2{
+    background-image: url("1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.TopBanner3{
+    background-image: url("3.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.TopBanner4{
+    background-image: url("4.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
